@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pzatee.github.io/yqs/sitemap.yqs.gz
